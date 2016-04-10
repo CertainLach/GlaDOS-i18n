@@ -1,1 +1,189 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: GlaDOS\n"
+"Language: en-us\n"
+
+#: bot/index.js:35
+msgid "Запуск супервизора"
+msgstr "Supervisor startup"
+
+#: bot/index.js:36
+msgid "Запуск рабочих"
+msgstr "Starting workers"
+
+#: bot/index.js:27
+msgid "рабочий "
+msgstr "worker "
+
+#: bot/index.js:27
+msgid "Запуск точки входа рабочего"
+msgstr "Launching worker's Entry point"
+
+#: bot/index.js:35 bot/index.js:52
+msgid "супер"
+msgstr "super"
+
+#: bot/index.js:36 bot/index.js:41 bot/index.js:44
+msgid "кластер"
+msgstr "cluster"
+
+#: bot/index.js:44
+msgid "Упал рабочий "
+msgstr "Crashed worker "
+
+#: bot/index.js:44
+msgid "перезапуск"
+msgstr "restart"
+
+#: bot/index.js:52
+msgid "Запуск обработчика рабочих"
+msgstr "Launching worker processor"
+
+#: libs/vk.js:22 libs/vk.js:25 libs/vk.js:32 libs/vk.js:45 libs/vk.js:60
+#: libs/vk.js:62 libs/vk.js:65 libs/vk.js:69 libs/vk.js:78 libs/vk.js:80
+#: libs/vk.js:87 libs/vk.js:94 libs/vk.js:107
+#: bot/src/worker/modules/receiver/vk.js:9
+#: bot/src/worker/modules/receiver/vk.js:13
+#: bot/src/worker/modules/receiver/vk.js:23
+#: bot/src/worker/modules/receiver/vk.js:29
+#: bot/src/worker/modules/receiver/vk.js:41
+#: bot/src/worker/modules/receiver/vk.js:80
+msgid "вк"
+msgstr "vk"
+
+#: libs/vk.js:32
+msgid "Добавление в очередь для"
+msgstr "Add to queue for "
+
+#: libs/vk.js:45
+msgid "Колбэк не обьявлен при вызове "
+msgstr "Callback is not specified for "
+
+#: libs/vk.js:60
+msgid "Произошла ошибка!"
+msgstr "Error occurred!"
+
+#: libs/vk.js:62
+msgid "Необходимо распознавание капчи!"
+msgstr "Captcha's recognition required!"
+
+#: libs/vk.js:65
+msgid "Ошибка распознавания капчи!"
+msgstr "Captcha's recognition error!"
+
+#: libs/vk.js:69
+msgid "Капча распознана, код: "
+msgstr "Captcha recognized, code is "
+
+#: libs/vk.js:78
+msgid "Требуется валидация!"
+msgstr "Validation required!"
+
+#: libs/vk.js:80
+msgid "Выполнение валидации... 0/2"
+msgstr "Validation... 0/2"
+
+#: libs/vk.js:87
+msgid "Выполнение валидации... 1/2"
+msgstr "Validation... 1/2"
+
+#: libs/vk.js:94
+msgid "Выполнение валидации... 2/2"
+msgstr "Validation... 2/2"
+
+#: libs/vk.js:102
+msgid "Невозможно выполнить валидацию!"
+msgstr "Validation isn't possible!"
+
+#: libs/vk.js:107
+msgid "Неизвестная ошибка!"
+msgstr "Unknown error!"
+
+#: libs/include.js:63
+msgid "лог"
+msgstr "log"
+
+#: libs/include.js:92
+msgid "                        GlaDOS Bot "
+msgstr "␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣␣GlaDOS Bot␣"
+
+#: libs/include.js:93
+msgid "              (C) Unite 2016. All rights reserved."
+msgstr "␣␣␣␣␣␣␣␣␣␣␣␣␣␣(C) Unite 2016. All rights reserved. "
+
+#: libs/include.js:95
+msgid "Логгер запущен"
+msgstr "Logger has been started"
+
+#: libs/include.js:99 libs/include.js:102 libs/include.js:105
+msgid "бд"
+msgstr "db"
+
+#: libs/include.js:99
+msgid "Подключение к базе данных..."
+msgstr "Connecting to database"
+
+#: libs/include.js:102
+msgid "Ошибка подключения!"
+msgstr "Connection error!"
+
+#: libs/include.js:105
+msgid "Подключение к базе данных выполнено успешно!"
+msgstr "Connecting to database is successful!"
+
+#: bot/src/worker/modules/receiver/vk.js:9
+msgid "Получение данных о сервере..."
+msgstr "Reading server information..."
+
+#: bot/src/worker/modules/receiver/vk.js:13
+msgid "Данные о сервере получены!"
+msgstr "Server information obtained!"
+
+#: bot/src/worker/modules/receiver/vk.js:23
+msgid "Получение сообщений с сервера..."
+msgstr "Reading server messages..."
+
+#: bot/src/worker/modules/receiver/vk.js:29
+msgid "Ошибка разбора принятых сообщений:"
+msgstr "Messages parsing error!"
+
+#: bot/src/worker/modules/receiver/vk.js:41
+msgid "Неизвестный код ошибки:"
+msgstr "Unknown error code:"
+
+#: bot/src/worker/modules/receiver/vk.js:80
+msgid "Бот онлайн!"
+msgstr "Bot is online!"
+
+#: bot/src/worker/entry.js:5 bot/src/worker/entry.js:7
+msgid "рабочий"
+msgstr "worker"
+
+#: bot/src/worker/entry.js:17
+msgid "Точка входа запущена для модуля"
+msgstr "Launched entry point for"
+
+#: bot/index.js:41
+msgid "Запустился рабочий"
+msgstr "Worker launched!"
+
+#: bot/index.js:41
+msgid "для модуля"
+msgstr "for"
+
+#: bot/index.js:41
+msgid "ПРИЁМ"
+msgstr "RECEIVING"
+
+#: bot/index.js:41
+msgid "ОТВЕТ"
+msgstr "RESPONSING"
+
+#: bot/index.js:41
+msgid "ОТПРАВКА"
+msgstr "SENDING"
 
